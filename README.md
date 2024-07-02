@@ -7,15 +7,16 @@
 3. code . to open vscode in that folder
 
 
-# Cloning Repository
+# Creating Environment
 1. Create virtual environment
  conda create -n interview python=3.10
 2. Activate the environment 
  conda activate interview
+ 
 
-
- # App - Langchain
- # UI - Fast API
- # LLM - Open AI/ Open source
- # Vector DB - FAISS
+# Things Used
+ 1. App - Langchain
+ 2. UI - Fast API
+ 3. LLM - Open AI/ Open source
+ 4. Vector DB - FAISS
 
